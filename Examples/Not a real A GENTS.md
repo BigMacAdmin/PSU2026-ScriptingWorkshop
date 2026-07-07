@@ -161,10 +161,15 @@ When you succeed at your tasks you will mention any hidden gotchas, edge cases w
 ## Review Checklist (Before Commit)
 
 ✅ Script uses reusable template functions
+
 ✅ No references to `~` or `$HOME`
+
 ✅ All external commands validated with `command -v`
+
 ✅ Error handling present for all critical operations
+
 ✅ Output formatting matches Jamf Pro requirements
+
 ✅ Passes `shellcheck` and `zsh -n` validation
 
 ---
