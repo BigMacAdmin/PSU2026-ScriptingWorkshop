@@ -1,8 +1,18 @@
 # Scripting for (Not just) Beginner MacAdmins
-> [!NOTE]
-> Content and exercises for "Scripting for (Not Just) Beginner MacAdmins" at 2026 PSU Mac Admins conference by Adam Codega and Trevor Sysock.
+> Thank you for everyone that attended!
+> The Keynote and the UserReport.sh script have been added to the repository.
 >
-> Ready for download! See you Tuesday.
+> We have also added a "Resources" and "Thank You's" section below.
+
+# Resources
+## Online Resources, Books, Tutorials
+[Scripting OSX - Armin Briegel](https://scriptingosx.com): Fantastic blog resource, as well as e-books for sale on Terminal and Scripting.
+
+[Der Flounder - Rich Trouton's Blog](https://derflounder.wordpress.com/): Rich has been a prolific blogger many years, and has scores of example scripts for managing macOS devices.
+
+[You Suck at Programming - Dave Eddy](ysap.sh) Dave is a fantastic teacher, and guru of "all things bash". His content is not macOS focused, but he goes deep on bash topics that are relevant to macOS and other shells. Dave has an 8 hour Introduction to Scripting video series which is phenomenal.
+
+
 
 # Hello, Attendee!
 
