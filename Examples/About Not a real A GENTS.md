@@ -8,7 +8,7 @@ The `AGENTS.md` project describes these files as "a README for AI agents." They 
 
 Read `Not a Real AGENTS.md` and you'll understand what we're trying to do with an AGENTS.md.
 
-Our example focuses on something the generic examples don't: writing shell scripts for MacAdmins. (ALso our example follows closely what Adam uses in his Jamf environment, obviously you can modify it to match a different MDM)
+Our example focuses on something the generic examples don't: writing shell scripts for MacAdmins. (Also our example follows closely what Adam uses in his Jamf environment, obviously you can modify it to match a different MDM)
 
 Most AI models have seen far more application code than MacAdmin scripts. They tend to assume a script is run interactively by the person sitting at the keyboard. That's a reasonable assumption but it doesn't match how most MacAdmin scripts are executed.
 
